@@ -44,8 +44,7 @@ int main()
 			case 5:
 				DeleteStudent();	break;
 			case 6:
-				HelpMenu();	
-				break;
+				HelpMenu();	break;
 			case 7:
 				cout<<"\033[2J\033[u\n";	break;
 			default:
